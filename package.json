@@ -1,0 +1,17 @@
+{
+  "name": "js1k_2015_shim",
+  "version": "0.0.1",
+  "description": "JS1K 2015 Shim",
+  "author": "@efexen",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-include-replace": "^2.0.0",
+    "grunt-jscrush": "^0.1.0",
+    "grunt-micro": "^0.1.0",
+    "grunt-open": "^0.2.3"
+  }
+}
